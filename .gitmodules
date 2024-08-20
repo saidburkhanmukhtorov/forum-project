@@ -1,0 +1,9 @@
+[submodule "Forum-Service"]
+	path = Forum-Service
+	url = git@github.com:saidburkhanmukhtorov/Forum-Service.git
+[submodule "forum-api-gateway"]
+	path = forum-api-gateway
+	url = git@github.com:saidburkhanmukhtorov/forum-api-gateway.git
+[submodule "Auth-Service"]
+	path = Auth-Service
+	url = git@github.com:saidburkhanmukhtorov/Auth-Service.git
